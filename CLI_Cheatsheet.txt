@@ -7,3 +7,8 @@ git commit -m "Message"                                     //Commit changes in 
 git status                                                  //Get status of working branch
 git log                                                     //Get log of respository changes
 
+// Linux
+
+cd                                                          //Change directory
+rm                                                          //Remove
+touch                                                       //Create blank file
