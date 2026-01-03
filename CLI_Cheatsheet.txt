@@ -1,9 +1,9 @@
 // Git
 
-git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
-git push
-git add .
-git commit -m "Message"
-git status
-git log
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git      //Clone respository
+git push                                                    //Push respository to GitHub
+git add .                                                   //Add changes to staging area
+git commit -m "Message"                                     //Commit changes in staging with desc of changes
+git status                                                  //Get status of working branch
+git log                                                     //Get log of respository changes
 
